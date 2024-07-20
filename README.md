@@ -14,3 +14,11 @@ Espero que eu possa contribuir em alguma coisa caso tenha chegado até aqui. ;)
   <img align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 3rem"> •
   <img align="center" alt="javaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 3rem">
 </div>
+
+### Próximos passos 🔍
+
+<div style="display: inline-block">
+  <img align="center" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 3rem"> •
+  <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="width: 3rem"> •
+  <img align="center" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" style="width: 3rem">
+</div>
